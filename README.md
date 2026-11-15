@@ -12,7 +12,7 @@ A lightweight, interactive Python automation wrapper designed to streamline ethi
 
 ## 🚀 Quick Start
 ```bash
-git clone [https://github.com/codewithamanahmad656-sudo/AutoSec-Toolkit.git](https://github.com/codewithamanahmad656-sudo/AutoSec-Toolkit.git)
+git clone https://github.com/codewithamanahmad656-sudo/AutoSec-Toolkit.git
 cd AutoSec-Toolkit
 pip install -r requirements.txt
 python main.py
